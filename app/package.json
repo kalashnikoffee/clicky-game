@@ -1,6 +1,6 @@
 {
   "homepage": "https://kalashnikoffee.github.io/clicky-game/",
-  "name": "app",
+  "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
